@@ -1,0 +1,85 @@
+@media (min-width: 1025px) and (max-width: 1200px) { 
+    .enter-inner-item-bg { flex: 0 0 23%; }
+    .enter-inner-item-bg p {max-width: 178px;padding-top: 18px; }
+}
+@media (min-width: 768px) and (max-width: 1024px) { 
+    .dmRoot .dmCountdown .number { font-size:22.5px  }
+    .dmRoot .dmCountdown .label {  padding-top: 3px; font-size: 12px }
+    .dmRoot .dmCountdown .divider { margin: 0 4px; font-size: 22px}
+    .dmRoot .dmCountdown[data-layout=layout-1] .divider { margin: 0 2px; font-size: 19px}
+    .dmRoot .dmCountdown[data-layout=layout-2] .divider { margin: 0 5px; font-size: 22px }
+    .dmRoot .dmCountdown[data-layout=layout-2] .label {padding-top: 6px}
+    .dmRoot .dmCountdown[data-layout=layout-3] .divider {margin: 0 2px }
+    .dmRoot .dmCountdown[data-layout=layout-3] .label { padding-top: 6px }
+    .dmRoot .dmCountdown[data-layout=layout-3] .number { font-size: 28px }
+    .enter-now-container { flex-wrap: wrap;}
+    .about-inner {gap: 0px; flex-wrap: wrap;}
+    .about-me-left { flex: 0 0 100%; }
+    .footer-inner { flex-wrap: wrap;}
+    .win-tesla { column-gap: 0px;flex-wrap: wrap;padding: 35px 15px;display: inline-block; }
+    .dmCountdown[data-layout=layout-1] .divider {  margin: 0 0px; }
+    .dmCountdown[data-layout=layout-1] {width: 100%; }
+    .contactusform-inner { column-gap: 0px;  flex-wrap: wrap;margin: 0 auto 15px;}
+    .contactusform-inner .form-control {flex: 0 0 100%;margin-bottom: 15px;}
+    .cart { width: 100%;}
+    .teslaimleft img { margin: 0 auto 20px; display: block; }
+    .teslaright { text-align: center; }
+    .teslaright h2 { width: 100%;    margin: 0 auto; }
+    .banner { padding-bottom: 200px; }
+    .enter-inner-item-bg { flex: 0 0 100%; max-width: 385px; margin: 0 auto; }
+    .about-me-right {   flex: 0 0 100%; }
+    .about-me-right p { max-width: 100%;}
+    .footer-left,.footer-two,.footer-three,.footer-right {flex: 0 0 100%;}
+    footer { padding: 100px 15px;}
+    .footer-right ul { display: flex; align-items: center; justify-content: center; margin-top: 20px; }
+    .footer-right ul li { margin: 0px 12px; }
+    footer, section.contact-us,section.about-me { padding: 50px 15px; }
+    .footer-two { margin-bottom: 20px; }
+    .footer-right ul li a {margin-bottom: 0px;}
+    .container-contact h2 { margin: 0 auto 33px; }
+    /* new css */
+    .win-my-inner { display: unset; }
+    .win-my-tesla-left,.win-my-tesla-right{padding: 0px 15px;}
+    .win-my-tesla-right h2 {margin: 20px  0px 10px;}
+    /* new css */
+}
+@media (min-width: 320px) and (max-width: 767px) { 
+    .dmRoot .dmCountdown .number { font-size:22.5px  }
+    .dmRoot .dmCountdown .label {  padding-top: 3px; font-size: 12px }
+    .dmRoot .dmCountdown .divider { margin: 0 4px; font-size: 22px}
+    .dmRoot .dmCountdown[data-layout=layout-1] .divider { margin: 0 2px; font-size: 19px}
+    .dmRoot .dmCountdown[data-layout=layout-2] .divider { margin: 0 5px; font-size: 22px }
+    .dmRoot .dmCountdown[data-layout=layout-2] .label {padding-top: 6px}
+    .dmRoot .dmCountdown[data-layout=layout-3] .divider {margin: 0 2px }
+    .dmRoot .dmCountdown[data-layout=layout-3] .label { padding-top: 6px }
+    .dmRoot .dmCountdown[data-layout=layout-3] .number { font-size: 28px }
+    .enter-now-container { flex-wrap: wrap;}
+    .about-inner {gap: 0px; flex-wrap: wrap;}
+    .about-me-left { flex: 0 0 100%; }
+    .footer-inner { flex-wrap: wrap;}
+    .win-tesla { column-gap: 0px;flex-wrap: wrap;padding: 35px 15px;display: inline-block; }
+    .dmCountdown[data-layout=layout-1] .divider {  margin: 0 0px; }
+    .dmCountdown[data-layout=layout-1] {width: 100%; }
+    .contactusform-inner { column-gap: 0px;  flex-wrap: wrap;margin: 0 auto 15px;}
+    .contactusform-inner .form-control {flex: 0 0 100%;margin-bottom: 15px;}
+    .cart { width: 100%;}
+    .teslaimleft img { margin: 0 auto 20px; display: block; }
+    .teslaright { text-align: center; }
+    .teslaright h2 { width: 100%; margin: 0 auto; font-size: 58px; line-height: 60px; }
+    .banner { padding-bottom: 200px; }
+    .enter-inner-item-bg { flex: 0 0 100%; max-width: 385px; margin: 0 auto; }
+    .about-me-right {   flex: 0 0 100%; }
+    .about-me-right p { max-width: 100%;}
+    .footer-left,.footer-two,.footer-three,.footer-right {flex: 0 0 100%;}
+    footer { padding: 100px 15px;}
+    .footer-right ul { display: flex; align-items: center; justify-content: center; margin-top: 20px; }
+    .footer-right ul li { margin: 0px 12px; }
+    footer, section.contact-us,section.about-me { padding: 50px 15px; }
+    .footer-two { margin-bottom: 20px; }
+    .footer-right ul li a {margin-bottom: 0px;}
+    .container-contact h2 { margin: 0 auto 33px; }
+    /* new css */
+    .win-my-inner { display: unset; }
+    .win-my-tesla-left,.win-my-tesla-right{padding: 0px 15px;}
+    /* new css */
+}
